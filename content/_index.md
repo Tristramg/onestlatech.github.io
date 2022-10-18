@@ -2119,8 +2119,7 @@ Jérôme PECHE (https://www.pingwho.org), Electronicien pour FE Group.
 * Tristan Prudhomme, Développeur, Max Digital Services
 * [Tristan Rivoallan](https://www.constructions-incongrues.net), Lead Devops
 * Tristan Touileb, Administrateur système.
-* Tristram Gräbener, Codeurs en Liberté, Développeur web, Prestataire de l'Etat
-hats](https://www.modernisation.gouv.fr/le-hub-des-communautes/blue-hats)
+* Tristram Gräbener, [Codeurs en Liberté](https://www.codeursenliberte.fr), Développeur web
 * [Tuxun Mika](https://adeti.org), bénévole
 * V.Jammet, Concepteur
 * Valentin Aubin, technicien support
